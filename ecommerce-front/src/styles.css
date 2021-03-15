@@ -1,0 +1,40 @@
+.jumbotron {
+    width: 30wh;
+    height: 10vh;
+    padding-left: 20px;
+    background-color: #F7F7F7;
+    color: rgb(0, 0, 0);
+    z-index: 1;
+}
+
+.card {
+    border: 1px solid rgb(187, 187, 187);
+    padding: 5px;
+}
+
+.card .card-header {
+    border: 1px solid rgb(187, 187, 187);
+    font-weight: bold;
+    font-size:larger;
+}
+
+.product-img {
+    text-align: center;
+}
+
+.card-body .price {
+    font-weight: bold;
+}
+
+.mb-4 {
+    color:#3F96C9;
+}
+
+.nav-tabs{
+    background-color:#3F96C9 !important;
+  }
+
+  .center {
+    justify-content: 'center';
+    align-items: 'center';
+}
